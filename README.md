@@ -1,2 +1,2 @@
 # http-softwarepublico.gov.br-gitlab-sped-sped
-Sistema de Protocolo
+Sistema de Protocolo - SPED
